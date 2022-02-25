@@ -1,6 +1,6 @@
-# COVID-19 At-Home Test Spotter
+# Building Custom Bootstrap Cards with Shiny
 
-
+This repository contains the materials associated with the proposed talk at the 2022 Appsilon Shiny Conference.
 
 ## Installation
 
