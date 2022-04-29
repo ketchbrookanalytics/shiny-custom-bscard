@@ -19,7 +19,7 @@ At the end of the tutorial, users should be comfortable seeing a chunk of HTML c
     console, run `install.packages("renv")`.
 
 3.  Run `renv::restore()` to install the package dependencies needed to
-    run this app successfully
+    run the scripts in this repository successfully
 
 4.  Open the [app.R](app.R) file and execute the code in that script to
     launch the app
